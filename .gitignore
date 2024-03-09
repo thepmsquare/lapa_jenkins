@@ -1,0 +1,5 @@
+volumes/jenkins_data/*
+!volumes/jenkins_data/.lapa
+
+volumes/jenkins_docker_certs/*
+!volumes/jenkins_docker_certs/.lapa
